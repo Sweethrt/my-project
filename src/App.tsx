@@ -62,7 +62,7 @@ function App() {
           <p>Join the Vite community</p>
           <ul>
             <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
+              <a href="https://github.com/Sweethrt" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
@@ -74,7 +74,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://chat.vite.dev/" target="_blank">
+              <a href="https://discord.gg/5hSrUvCh" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
@@ -86,7 +86,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://x.com/vite_js" target="_blank">
+              <a href="https://x.com/InemFran03" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
